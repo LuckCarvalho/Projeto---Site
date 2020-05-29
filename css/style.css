@@ -135,11 +135,10 @@ a:hover {
 
 #h2_conteudo2{
     color: black; 
-    margin-left: 7%; 
-    margin-right: 7%; 
     background-color: #ffffff; 
     margin-bottom: 2%; 
     margin-top: 2%;
+    width: 100%;
 }
 
 #hr_conteudo2{
